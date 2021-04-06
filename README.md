@@ -3,18 +3,23 @@
 ...Mais pour tout ça il faudrait que j'bosse à plein temps</h4>
 
 
+<hr>
 
-### - Mes languages de développement
+<!-- Mes repo préféré : 
+<a href="https://github.com/drazozo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=drazozo&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/drazozo/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=drazozo&repo=convoychat" />
+</a>
+--> 
+### - Mes languages de développement + frame
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" alt="html" style="vertical-align:top; margin:4px">  
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/php.svg" alt="js" style="vertical-align:top; margin:4px">
-</p>
-
-### - Mon seul framework
-<p>
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/bootstrap.svg" alt="js" style="vertical-align:top; margin:4px">
 </p>
                                                                                                              
@@ -43,10 +48,15 @@
   <img align="left" alt="Enzo Métayer - Gmail" style="vertical-align:center; margin:4px" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/gmail.svg" />
    </p>
 <br>
-<br>
-  
+<hr>
+
  ### - Mes stats Github
 wwooow, le nombre de personnes qui ont regardé ma page : ![](https://visitor-badge.glitch.me/badge?page_id=drazozo)
 <p> <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=drazozo&show_icons=true&locale=en&layout=compact" alt = "drazozo" /> </p>
 <p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=drazozo&show_icons=true&locale=fr" alt = "drazozo" /> </p>
 <p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=drazozo&" alt = "drazozo" /> </p>
+
+<hr>
+
+<h1 align = "center"> Bievenue à toi dans mon monde Open-Source <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h4 align = "center"> Si tu utilises une de mes ressources, s'il te plaît, mets moi une étoile pour m'encourager à développer d'autres choses</h4>
